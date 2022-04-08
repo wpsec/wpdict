@@ -1,0 +1,4 @@
+*.xml
+.idea/pydictor.iml
+*.pyc
+/test
