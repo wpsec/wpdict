@@ -19,3 +19,9 @@
 
 
 [https://github.com/huyuanzhi2/password_brute_dictionary](https://github.com/huyuanzhi2/password_brute_dictionary)
+
+
+[https://github.com/ort4u/PwdBUD](https://github.com/ort4u/PwdBUD)
+
+
+[https://github.com/LandGrey/pydictor](https://github.com/LandGrey/pydictor)
