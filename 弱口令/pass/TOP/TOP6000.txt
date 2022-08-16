@@ -5999,7 +5999,5 @@ ffffffff
 12345679
 123456aaa
 buzhidao
-weblogic
 weblogic123
-11111111
 weblogic123456
