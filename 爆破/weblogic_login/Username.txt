@@ -1,0 +1,11 @@
+weblogic
+system
+portaladmin
+guest
+test
+joe
+mary
+wlcsystem
+wlpisystem
+tomcat
+admin

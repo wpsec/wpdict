@@ -1,4 +1,0 @@
-weblogic
-system
-portaladmin
-guest

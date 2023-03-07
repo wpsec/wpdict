@@ -1,0 +1,7 @@
+tomcat
+admin
+test
+manager
+role1
+root
+both
