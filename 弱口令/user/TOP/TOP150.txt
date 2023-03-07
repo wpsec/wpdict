@@ -139,3 +139,5 @@ testuser
 测试账号1
 qwer
 anonymous
+jk
+gj
