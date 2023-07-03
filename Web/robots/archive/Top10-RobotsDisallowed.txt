@@ -1,0 +1,10 @@
+/
+/admin/
+/search/
+/includes/
+/modules/
+/xmlrpc.php
+/search
+/LICENSE.txt
+/scripts/
+/cron.php

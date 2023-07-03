@@ -201,7 +201,6 @@ gaokeQ6
 epicrouter
 GeNeXiS@19
 4321
-Host: 159.138.55.97:23
 @HuaweiHgw
 telnet
 nE7jA%5m
